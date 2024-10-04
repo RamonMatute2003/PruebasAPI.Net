@@ -1,8 +1,4 @@
-﻿using System.Collections.Generic;
-using System.Reflection.Emit;
-
-using Microsoft.EntityFrameworkCore;
-
+﻿using Microsoft.EntityFrameworkCore;
 namespace PruebasAPI.Net.Models;
 
 public class ProductsContext : DbContext
